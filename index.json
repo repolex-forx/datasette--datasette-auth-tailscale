@@ -1,0 +1,11 @@
+{
+  "org": "datasette",
+  "repo": "datasette-auth-tailscale",
+  "versions": [
+    {
+      "commit": "7520939af6eff6c804135a73926bb621027c8314",
+      "tag": "0.0.1a1",
+      "parsed_at": "2026-10-12T19:30:54.474676+00:00"
+    }
+  ]
+}
