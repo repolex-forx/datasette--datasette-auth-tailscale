@@ -1,0 +1,39 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/datasette/datasette-auth-tailscale/commit/7520939af6eff6c804135a73926bb621027c8314",
+  "@type": "git:Commit",
+  "git:hexsha": "7520939af6eff6c804135a73926bb621027c8314",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/datasette/datasette-auth-tailscale"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/7520939af6eff6c804135a73926bb621027c8314.nq.gz",
+      "repolex:graphFileSize": 1351
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 778
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 421
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 268
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-10-12T19:28:37.828220+00:00",
+  "repolex:parserVersion": "0.1.10",
+  "git:tagName": "0.0.1a1"
+}

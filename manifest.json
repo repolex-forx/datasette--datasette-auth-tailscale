@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1.0",
+  "org": "datasette",
+  "repo": "datasette-auth-tailscale",
+  "versions": [
+    {
+      "commit": "7520939af6eff6c804135a73926bb621027c8314",
+      "parsed_at": "2026-10-12T19:28:37.828220+00:00",
+      "tag": "0.0.1a1",
+      "filetree": "filetree/7520939af6eff6c804135a73926bb621027c8314.nq.gz",
+      "blobs": [
+        "blob/b965021a231f865d7eba14c51a4a865f15cc72fc.nq.gz",
+        "blob/d725e1317742200bc9a2af65e5f89e625bbc321f.nq.gz",
+        "blob/b40b34b07efa8231db3a1a789a6cab56bc6e4989.nq.gz",
+        "blob/eb22e74eaaaf0edc4aa2c0f8900a55750d1660f9.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/0fdbe51e254df923bd9778e8a25a786ba130b560.nq.gz",
+        "blob/814a3a4283a1bed8467d85b8e2986854d22fa38d.nq.gz",
+        "blob/d4269c27fe9b058bc3ffab8aff808e5dbd09ba03.nq.gz",
+        "blob/bf041f0d72dfa3585fa88b534dc6b9d608525c34.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
