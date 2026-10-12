@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/datasette/datasette-auth-tailscale/commit/7520939af6eff6c804135a73926bb621027c8314",
       "git:hexsha": "7520939af6eff6c804135a73926bb621027c8314",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.0.1a1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.0.1a1",
+      "repolex:parsedAt": "2026-10-12T19:30:54.474252+00:00"
     }
   ]
 }
